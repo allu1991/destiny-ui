@@ -7,3 +7,7 @@ The user interface design, equipment info and almost all the image assets have b
 Project has no official or commercial affilitation with Bungie Inc. whatsoever.
                             
 Techonolgies used: React, ParallaxJS, React SASS
+
+–
+
+**Demo:** [Destiny UI](https://allu1991.github.io/destiny-ui/)
