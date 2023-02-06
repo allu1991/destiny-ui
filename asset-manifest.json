@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/destiny-ui/static/css/main.847048ab.css",
+    "main.js": "/destiny-ui/static/js/main.18e331af.js",
+    "static/media/item_w_deathbringer.webp": "/destiny-ui/static/media/item_w_deathbringer.41991e05a0e83e77c935.webp",
+    "static/media/placeholder-character.webp": "/destiny-ui/static/media/placeholder-character.2b5670bf4c972cd8cd04.webp",
+    "static/media/item_w_coldfront.webp": "/destiny-ui/static/media/item_w_coldfront.649dbc98fa476c787eb6.webp",
+    "static/media/item_e_solstice_strides.webp": "/destiny-ui/static/media/item_e_solstice_strides.e20152ee3cc27a892177.webp",
+    "static/media/Futura Medium Italic.ttf": "/destiny-ui/static/media/Futura Medium Italic.6180d54a312d36bd0924.ttf",
+    "static/media/Futura Heavy.ttf": "/destiny-ui/static/media/Futura Heavy.af72c25a6945b0f48abb.ttf",
+    "static/media/Futura Medium bt.ttf": "/destiny-ui/static/media/Futura Medium bt.4e762c29ef7b44ca51cb.ttf",
+    "static/media/Futura Light Italic.ttf": "/destiny-ui/static/media/Futura Light Italic.7a38f125834cd8b1f80c.ttf",
+    "static/media/Futura Light bt.ttf": "/destiny-ui/static/media/Futura Light bt.ead7282f8edac7904e53.ttf",
+    "static/media/item_w_bastion.webp": "/destiny-ui/static/media/item_w_bastion.b0388c33aba2c9927bf1.webp",
+    "static/media/background-blur-bg2.webp": "/destiny-ui/static/media/background-blur-bg2.3758cd9f54f306857ba1.webp",
+    "static/media/item_e_antiextinction_grasps.webp": "/destiny-ui/static/media/item_e_antiextinction_grasps.2f274e20ab21dd69239e.webp",
+    "static/media/item_e_solstice_mask.webp": "/destiny-ui/static/media/item_e_solstice_mask.dafbdd0fd80a0dd4e69a.webp",
+    "static/media/item_e_scorched_hunter_cloak.webp": "/destiny-ui/static/media/item_e_scorched_hunter_cloak.88979e3816a360256594.webp",
+    "static/media/item_e_ophidia_spathe.webp": "/destiny-ui/static/media/item_e_ophidia_spathe.f24f40da88ec3c57ba43.webp",
+    "static/media/bg-emblem-gold.svg": "/destiny-ui/static/media/bg-emblem-gold.64a7a849045f20c12c103eca607dae60.svg",
+    "static/media/bg-emblem.svg": "/destiny-ui/static/media/bg-emblem.462e284214f79879301b4e7deb3be1a4.svg",
+    "static/media/item_w_nasreddin.webp": "/destiny-ui/static/media/item_w_nasreddin.e2cc5c7d9dd783addb12.webp",
+    "index.html": "/destiny-ui/index.html",
+    "static/media/icon_info.svg": "/destiny-ui/static/media/icon_info.e93d4af225b16881193bf21354b0ac74.svg",
+    "static/media/icon-menu.svg": "/destiny-ui/static/media/icon-menu.8d60d5ddee056b3710c1cbd1e9551e97.svg",
+    "main.847048ab.css.map": "/destiny-ui/static/css/main.847048ab.css.map",
+    "main.18e331af.js.map": "/destiny-ui/static/js/main.18e331af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847048ab.css",
+    "static/js/main.18e331af.js"
+  ]
+}
