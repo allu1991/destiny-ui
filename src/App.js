@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import MainContent from './components/MainContent';
+import CustomCursor from './components/CustomCursor';
+import backgroundImg from './images/background-blur-bg2.webp';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    return (
+        <div className="App">
+
+            <CustomCursor />
+            
+            <Header />
+
+            <img className='main-bg-img' src={backgroundImg} alt="" />
+
+            <main className='app-main'>
+                <MainContent />
+            </main>
+            
+            <Footer />
+
+        </div>
+    );
 }
 
 export default App;

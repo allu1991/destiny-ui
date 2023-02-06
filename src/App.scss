@@ -1,0 +1,31 @@
+@import './styles/normalize';
+@import './styles/variables';
+@import './styles/typography';
+@import './styles/CustomCursor';
+@import './styles/Header';
+@import './styles/MainContent';
+@import './styles/Footer';
+@import './styles/EquipmentItem';
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: radial-gradient(circle, rgba(205,213,169,1) 0%, rgba(181,175,145,1) 50%, rgb(91, 84, 67) 100%);;
+
+    > main {
+        flex: 1;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

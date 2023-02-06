@@ -1,0 +1,72 @@
+
+// COLORS
+$c_white: #fff;
+$c_white_opaque1: rgba(255, 255, 255, 0.65);
+$c_white_opaque2: rgba(255, 255, 255, 0.40);
+$c_white_opaque3: rgba(255, 255, 255, 0.20);
+$c_gray: #e4e4e4;
+$c_black: #231f20;
+$c_gold: #d7b950;
+$c_gold_opaque: rgba(215, 185, 80, 0.75);
+$c_purple: #654376;
+$c_purple_opaque: rgba(101, 67, 118, 0.75);
+$c_blue: #72a0d2;
+$c_blue_opaque: rgba(114, 160, 210, 0.75);
+$c_green: #33713e;
+$c_green_opaque: rgba(51, 113, 62, 0.75);
+$c_beige: #c3bab1;
+$c_beige_opaque: rgba(195, 186, 177, 0.75);
+
+
+
+
+
+// FONT-FAMILIES
+$font-default: "Futura Book", sans-serif;
+
+
+
+/*--- MEDIA QUERIES ---*/
+// Usage example for this: @include xs {}
+
+$screen-xs-max: 576px;
+$screen-sm-max: 768px;
+$screen-lg-max: 991px;
+$screen-xl-max: 1200px;
+$screen-xxl-max: 1920px;
+
+
+// Small devices
+@mixin xs {
+    @media (max-width: #{$screen-xs-max}) {
+        @content;
+    }
+}
+ 
+// Medium devices
+@mixin sm {
+    @media (max-width: #{$screen-sm-max}) {
+        @content;
+    }
+}
+ 
+// Large devices
+@mixin lg {
+    @media (max-width: #{$screen-lg-max}) {
+        @content;
+    }
+}
+ 
+// Extra large devices
+@mixin xl {
+    @media (max-width: #{$screen-xl-max}) {
+        @content;
+    }
+}
+
+// +1080p devices
+@mixin xxl {
+    @media (max-width: #{$screen-xxl-max}) {
+        @content;
+    }
+}
